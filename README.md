@@ -1,3 +1,8 @@
+
+ ### Live Preview
+👉 [Live Preview](https://country-app-barissskaya.vercel.app/)
+
+
 ### Ülke Listesi / Istatistikleri Uygulaması
 
 - Lütfen bu uygulamanızı React kullanarak yapın.
